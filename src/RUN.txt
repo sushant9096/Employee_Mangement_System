@@ -1,0 +1,22 @@
+1)car rental system:
+carrental is database name
+Login Details for user:
+Username : test@gmail.com
+Password :  Test@12345
+For Admin Panel
+Login Details for admin :
+Username : admin
+Password : Test@12345
+
+2)employee management system:
+project is database name
+USERNAME: ADMIN
+PASSWORD: SHAKYA
+
+EMP: debjanidas@123
+PASS: debjani
+
+3)SCHOOL RESULT
+
+ADMIN username = admin
+password = Test@123

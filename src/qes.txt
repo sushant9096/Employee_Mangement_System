@@ -1,0 +1,5 @@
+1.devide two sign number
+2.sum of hexadeciml
+3.no in array in accending order
+4.srting in reverse reverse order
+5.string concatination
